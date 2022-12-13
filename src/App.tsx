@@ -1,10 +1,10 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { firebaseConfig } from "./firebase-setup";
-import { initializeApp } from "firebase/app";
+// import { firebaseConfig } from "./firebase-setup";
+// import { initializeApp } from "firebase/app";
 // import { getAnalytics } from "firebase/analytics";
 
-const app = initializeApp(firebaseConfig);
+// const app = initializeApp(firebaseConfig);
 // const analytics = getAnalytics(app);
 
 function App() {
